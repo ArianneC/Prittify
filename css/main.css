@@ -1,0 +1,117 @@
+* {
+	font-family: 'Oswald'
+}
+
+.text-center {
+	text-align: center;
+}
+
+header a {
+	text-decoration: none;
+	color: black;
+	font-size: 1.5em;
+	display: inline-block;
+	padding: 1% 1.5%;
+}
+
+header a:hover {
+	background: #9006E3;
+	color: white;
+}
+
+.hero-image {
+	 background-image: url(../images/background.jpg);
+	 background-repeat: no-repeat;
+	 background-size: cover;
+	 padding: 8% 25% 9%;
+	 color: white;
+}
+
+.hero-image h1 {
+	font-size: 3em;
+}
+
+.hero-image h2 {
+	font-size: 2em;
+}
+
+.logo{
+	 padding-top: 50px;
+	 padding-left: 340px;
+}
+
+.logo img{
+   padding-left: 75px;
+}
+
+.logo h1{
+	color: white;
+	padding-top: 30px;
+}
+
+.logo h4{
+	color: white;
+	padding-top: 20px;
+	padding-left: 54px;
+	font-size: 2em;
+}
+
+.aboutme{
+	background-image: url(../images/tile1.png);
+	background-size: 100%;
+  padding: 50px;
+}
+
+.about{
+	color: #9006E3;
+	font-size: 2em;
+}
+
+.foto img{
+	width: 60%;
+	margin: 27px 195px;
+	border: 1px solid black;
+	padding: 5px 5px;
+}
+
+.texto p{
+	 padding: 23px 85px;
+	 font-size: 1em;
+}
+
+.box h1{
+	 color: #9006E3;
+   padding: 61px 99px;
+   padding-bottom: 15px; 
+}
+
+.box p{
+	 color: #9006E3;
+	 font-size: 18px;
+   padding: 8px 85px;
+}
+
+.box-circle img{
+	 border-radius: 100%;
+	 margin-top: 20px;
+	 width: 90%;
+	 border: 1px solid #9006E3;
+	 padding: 7px 7px 7px;
+}
+
+.footer{
+	 background-image: url(../images/tile2.png);
+	 background-repeat: repeat;
+	 margin-top: 50px;
+	 padding-bottom: 40px;
+}
+
+.background-gray h1{
+    padding: 60px;
+	  color: #9006E3;
+	  font-family: 'Merriweather', serif;
+}
+
+.contact img{
+	padding: 20px;
+}
